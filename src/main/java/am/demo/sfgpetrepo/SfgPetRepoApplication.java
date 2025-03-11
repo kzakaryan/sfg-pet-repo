@@ -9,5 +9,4 @@ public class SfgPetRepoApplication {
     public static void main(String[] args) {
         SpringApplication.run(SfgPetRepoApplication.class, args);
     }
-
 }
