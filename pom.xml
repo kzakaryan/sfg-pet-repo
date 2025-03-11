@@ -9,7 +9,7 @@
     </parent>
     <groupId>am.demo</groupId>
     <artifactId>sfg-pet-repo</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>sfg-pet-repo</name>
     <description>sfg-pet-repo</description>
@@ -25,10 +25,10 @@
         <module>sfg-pet-web</module>
     </modules>
     <scm>
-        <connection />
+        <connection></connection>
         <developerConnection>scm:git:git@github.com:kzakaryan/sfg-pet-repo.git</developerConnection>
-        <tag>sfg-pet-repo-0.0.1</tag>
-        <url />
+        <tag>HEAD</tag>
+        <url></url>
     </scm>
     <properties>
         <java.version>23</java.version>
